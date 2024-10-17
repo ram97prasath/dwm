@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo cp dwm/config.def.h dwm/config.h
+sudo make clean install -C dwm
