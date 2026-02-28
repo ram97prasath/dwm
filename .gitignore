@@ -1,0 +1,5 @@
+# Local/generated files to keep out of the repo
+*.rej
+config.h
+dwm
+*.o
