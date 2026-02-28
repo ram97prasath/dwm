@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=dwm
+Comment=Dynamic Window Manager
+Exec=/home/darkknight/Utils/suckless/dwm/scripts/launch-dwm.sh
+TryExec=dwm
+Icon=dwm
+Type=XSession
